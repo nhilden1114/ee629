@@ -1,8 +1,11 @@
-# ee629
+# EE629
 
 Internet of Things
+
 Spring 2020
+
 Coding Contribution
+
 
 This program requires you to have API keys in order to search tweets from Twitter's website
 
